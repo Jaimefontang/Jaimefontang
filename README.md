@@ -44,16 +44,6 @@ Vengo de 8 años en Samsung y el sector audiovisual. ¿Qué significa eso para e
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-  <a href="https://github.com/Jaimefontang">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jaimefontang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaimefontang&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-  </a>
-</div>
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/jaimefontang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
