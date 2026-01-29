@@ -1,11 +1,11 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=60&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Jaime+Fontán" alt="Jaime Fontan" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=60&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Jaime+Font%C3%A1n" alt="Jaime Fontán" />
   </a>
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=400&size=30&duration=1&pause=1000&color=8A8A8A&center=true&vCenter=true&width=600&lines=Software+Developer" alt="Software Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=30&duration=1&pause=1000&color=8A8A8A&center=true&vCenter=true&width=600&lines=Software+Developer" alt="Software Developer" />
   </a>
 
 </div>
@@ -14,12 +14,14 @@
 
 ### 👤 Sobre Mí
 
-Desarrollador de Software enfocado en **Backend (Java, SQL)** y **Movilidad (Kotlin/Android)**.
-Tras **8 años en el sector tecnológico (Samsung)**, decidí pasar de explicar la tecnología a construirla. Aporto la disciplina y visión de producto de un perfil senior, con el stack técnico moderno de un desarrollador en formación continua.
+🚧 **Proyectos en el horno:**
+Levantando **TaskFlow** (API REST robusta con Spring Boot 3) y puliendo la UX de **VidaExtra** (Android Nativo + Compose). Mi objetivo es que el backend sea tan sólido como la interfaz es fluida.
 
-- 🔭 Trabajando en: **API REST con Spring Boot y Seguridad JWT**.
-- 💬 Pregúntame sobre: **Android Nativo, Java y Ecosistema Samsung**.
-- 📫 Contacto: [jaime.fontang@gmail.com](mailto:jaime.fontang@gmail.com)
+🔮 **Next Level (Stack en expansión):**
+No me quedo quieto. Ahora mismo estoy profundizando en **Spring Security** (JWT), **Dockerización** de servicios y buenas prácticas de arquitectura limpia para microservicios.
+
+💾 **Background (Backup de experiencia):**
+Vengo de 8 años en Samsung y el sector audiovisual. ¿Qué significa eso para el código? Que tengo una **obsesión por el detalle** y una visión de producto que la mayoría de juniors aún no han desarrollado. No solo pico código, entiendo el negocio.
 
 ---
 
@@ -50,11 +52,10 @@ Tras **8 años en el sector tecnológico (Samsung)**, decidí pasar de explicar 
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaimefontang&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
   </a>
 </div>
-
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/jaimefontang" target="_blank">
+  <a href="https://www.linkedin.com/in/jaimefontang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
