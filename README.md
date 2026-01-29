@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=60&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Jaime+Fontan" alt="Jaime Fontan" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=60&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Jaime+Fontán" alt="Jaime Fontan" />
   </a>
   <br>
   <a href="https://git.io/typing-svg">
@@ -54,7 +54,7 @@ Tras **8 años en el sector tecnológico (Samsung)**, decidí pasar de explicar 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/jaimefontang" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
