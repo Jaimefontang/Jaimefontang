@@ -1,17 +1,18 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=55&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;Software+Developer+%7C+Java+%26+Android" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=60&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Jaime+Fontan" alt="Jaime Fontan" />
   </a>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,1E293B&height=120&section=header&text=&fontSize=0" />
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=400&size=30&duration=1&pause=1000&color=8A8A8A&center=true&vCenter=true&width=600&lines=Software+Developer" alt="Software Developer" />
+  </a>
 
 </div>
 
-### 🚀 Sobre Mí
+<br>
 
-> `User: Jaime Fontan`
-> `Status: Coding...`
+### 👤 Sobre Mí
 
 Desarrollador de Software enfocado en **Backend (Java, SQL)** y **Movilidad (Kotlin/Android)**.
 Tras **8 años en el sector tecnológico (Samsung)**, decidí pasar de explicar la tecnología a construirla. Aporto la disciplina y visión de producto de un perfil senior, con el stack técnico moderno de un desarrollador en formación continua.
