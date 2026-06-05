@@ -14,11 +14,11 @@
 
 ### Sobre mí
 
-DAM recién terminado. Vengo de 8 años en Samsung trabajando de cara al cliente, lo que significa que sé leer qué necesita un usuario antes de escribir una línea de código. Eso marca bastante diferencia.
+Desarrollo de Aplicaciones Multiplataforma recién terminado en la UFV Madrid. Antes de dedicarme al desarrollo pasé 8 años en Samsung España, lo que me dio una perspectiva de producto que intento aplicar en cada proyecto.
 
-Mi proyecto más reciente es **Fabulari**, una app Android que genera cuentos terapéuticos personalizados con IA para familias con niños. Flutter, Supabase, Gemini, Imagen 3.0 y Google Cloud TTS. Lo construí entero, desde el modelo de datos hasta las Edge Functions, pasando por el diseño en Figma.
+Mi trabajo más reciente es **[Fabulari](https://github.com/jaimefontang/fabulari-app)**, una app Android que genera cuentos terapéuticos personalizados con IA para familias con hijos. Desarrollada íntegramente por mí: diseño en Figma, backend en Supabase con Edge Functions en TypeScript, tres modelos de Google AI integrados y frontend en Flutter. Proyecto Fin de Ciclo 2026.
 
-También tengo en el repo **VidaExtra**, una app Android en Kotlin para dejar de fumar que hice durante el ciclo.
+También tengo en el repo **VidaExtra**, una app Android en Kotlin para dejar de fumar, desarrollada durante el ciclo.
 
 ---
 
